@@ -6,3 +6,6 @@ GNU General Public License (GPL) v3.0
 
 # original link
 Dinolek's source: https://github.com/HermesRepos/android_kernel_xiaomi_hermes
+
+# Device tree
+https://github.com/bjsiu/hermes-twrp-test
